@@ -1,0 +1,14 @@
+.building{
+    width: 100%;
+    margin: 5px;
+    margin-bottom: 20px;
+    background: url('../../public/original.jpg');
+    height: 50vh;
+    text-align: center;
+    font-size: 1.5rem;
+
+    
+}
+.building h1{
+    margin-top: 10px;
+}
